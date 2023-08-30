@@ -1,5 +1,5 @@
 
-# Teste# Tutorial: Implementando um Classificador Binário usando K-Nearest Neighbors (KNN) com Scikit-Learn
+# Tutorial: Implementando um Classificador Binário usando K-Nearest Neighbors (KNN) com Scikit-Learn
 
 Neste tutorial, iremos explorar a implementação de um classificador binário utilizando o algoritmo de K-Vizinhos Mais Próximos (KNN) a partir do pacote Scikit-Learn. Iremos passar por todos os passos necessários, desde a conceitualização até a avaliação do classificador, usando um conjunto de dados simulado de comentários sobre o atendimento ao cliente de uma loja virtual de eletrônicos.
 
